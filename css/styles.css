@@ -1,0 +1,215 @@
+body {
+    font-family: 'roboto', montserrat;
+    color: #212121;
+    background-color:#FFFFFF;
+}
+
+/* ----------- Header---------*/
+
+.header{
+    background-color: #2F303A;
+}
+.header-logo{
+    font-family: 'raleway', montserrat;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.accent{
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color:#000000;
+}
+.header-item{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.header-mail{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+}
+.header-tel{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.header-content{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+
+}
+.header-btn {
+    font-family:inherit;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.06em;
+    color: #212121;
+    cursor: pointer;
+    background-color: #F5F4FA;
+}
+    
+.header-btn:hover,
+.header-btn:focus {
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+.list {
+    list-style: none;
+}
+
+.link{
+    text-decoration: none;
+}
+.header-item:hover,
+.header-item:focus {
+    color: #2196F3;
+}
+
+/* ----------- Header---------*/
+
+.item-name{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.items-text{
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.images{
+    font-weight: 700;
+    font-size: 36px;
+    line-height:1.16;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.our-team {
+    background-color:#F5F4FA; ;
+}
+.team{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-title{
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+/*---------Footer------*/
+.footer{
+    background-color: #2F303A;
+}
+.accept-footer{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color:#2196F3;
+}
+.footer-logo{
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.footer-address{
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.footer-mail{
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-tel{
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+ 
+}
+
+/*----------Portfolio-----------*/
+
+
+.portfolio-button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background-color: #F5F4FA;
+}
+.portfolio-button:hover,
+.portfolio-button:focus {
+    color:#FFFFFF;
+    background-color: #2196F3;
+}
+
+.portfolio-list{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.portfolio-description {
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+/*цвет основного текста #757575 */
+
+/*цвет заголовков #212121 */
+
+/* цвет мейл и  студия #2196F3 */
+
+/* цвет заголовка #FFFFFF */
+
+/* цвет фона вторичный #url(2968) */
+
+/* цвет фона секции 1 #2F303A */
+
