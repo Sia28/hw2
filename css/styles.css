@@ -2,8 +2,8 @@
     --body-background-color: #FFFFFF;
     --body-font-color: #212121;
     --header-background-color: #2F303A;
-    --header-logo-color: #2196F3;
-    --accent-color: #000000;
+    --header-logo-color: #000000;
+    --accent-color: #2196F3;
     --header-item-color: #212121;
     --header-contacts-color: #757575;
     --header-content-color: #FFFFFF;
@@ -163,6 +163,7 @@ body {
     line-height: 1.18;
     letter-spacing: 0.03em;
     color: var(--team-color);
+
 }
 
 .team-title{
@@ -172,6 +173,10 @@ body {
     color: var(--team-title-color);
 }
 
+.style{
+    background-color: #FFFFFF;
+    text-decoration: none;
+}
 /*---------Footer------*/
 .footer{
     background-color: var(--footer-background-color);
@@ -251,10 +256,12 @@ body {
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--portfolio-list-color);
+
 }
 .portfolio-description {
     font-size: 16px;
     line-height: 1.87;
     letter-spacing: 0.03em;
     color: var(--portfolio-description-color);
+
 }
